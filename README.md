@@ -12,6 +12,13 @@ The LiveStreamAndroidAPP application allows users to stream content in the DASH 
 
 - **Adaptive Streaming:** Supports adaptive streaming formats like HLS and SmoothStreaming, ensuring optimal playback across different devices and network conditions.
 
+## Demo
+
+https://github.com/RushiChavan-dev/LiveStreamAndroidAPP/assets/50754786/bd626906-cfe8-4f9f-9955-7741fe99ed36
+
+
+
+
 ## Usage
 
 To use the LiveStreamAndroidAPP, follow these steps:
